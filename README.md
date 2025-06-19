@@ -1,6 +1,6 @@
-# PortScanner - C# Open Source Port Scanner
+# Pscan - C# Open Source Port Scanner
 
-**PortScanner** is a lightweight, easy-to-use Windows Forms application built in **.NET Framework 4.7.2** that scans common open ports on a given IP address. It uses asynchronous threading for fast scanning and includes simple UI tools like a progress bar and context menu options.
+**Pscan** is a lightweight, easy-to-use Windows Forms application built in **.NET Framework 4.7.2** that scans common open ports on a given IP address. It uses asynchronous threading for fast scanning and includes simple UI tools like a progress bar and context menu options.
 
 ---
 
