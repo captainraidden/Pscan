@@ -19,7 +19,7 @@
 
 ### 📷 Screenshot
 
-![PortScanner Screenshot](https://github.com/captainraidden/IPLookup/blob/main/Screenshot.png?raw=true)
+![PortScanner Screenshot](https://github.com/captainraidden/IPLookup/blob/main/Screenshot(2).png?raw=true)
 
 ---
 
