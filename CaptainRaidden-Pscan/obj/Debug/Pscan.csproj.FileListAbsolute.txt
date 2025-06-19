@@ -1,0 +1,12 @@
+C:\Users\Scarf\source\repos\Pscan\Pscan\bin\Debug\Pscan.exe.config
+C:\Users\Scarf\source\repos\Pscan\Pscan\bin\Debug\Pscan.exe
+C:\Users\Scarf\source\repos\Pscan\Pscan\bin\Debug\Pscan.pdb
+C:\Users\Scarf\source\repos\Pscan\Pscan\bin\Debug\Guna.UI2.dll
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.csproj.AssemblyReference.cache
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.Form1.resources
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.Properties.Resources.resources
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.csproj.GenerateResource.cache
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.csproj.CoreCompileInputs.cache
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.csproj.Up2Date
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.exe
+C:\Users\Scarf\source\repos\Pscan\Pscan\obj\Debug\Pscan.pdb
